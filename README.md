@@ -1,5 +1,9 @@
 # BoilerPlates.Postgres_Admin
 
+![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
+![Postgres](https://img.shields.io/badge/Postgres-17-blue?logo=postgresql)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A boilerplate setup for running **PostgreSQL** with **pgAdmin** using Docker Compose.
 This repository provides an easy way to spin up a PostgreSQL database along with a web-based admin interface for managing your databases.
 
@@ -116,10 +120,6 @@ Data is persisted via Docker volumes:
 
 This boilerplate is provided under the MIT License.
 Feel free to use and modify it for your projects.
-
-![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
-![Postgres](https://img.shields.io/badge/Postgres-17-blue?logo=postgresql)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 

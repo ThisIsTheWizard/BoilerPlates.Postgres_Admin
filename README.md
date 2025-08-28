@@ -116,3 +116,12 @@ Data is persisted via Docker volumes:
 
 This boilerplate is provided under the MIT License.
 Feel free to use and modify it for your projects.
+
+![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
+![Postgres](https://img.shields.io/badge/Postgres-17-blue?logo=postgresql)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
+
+👋 Created by [Elias Shekh](https://sheikhthewizard.world)  
+If you find this useful, ⭐ the repo or reach out!

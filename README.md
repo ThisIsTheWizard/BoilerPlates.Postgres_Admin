@@ -39,10 +39,16 @@ cd BoilerPlates.Postgres_Admin
 Edit the `.env` file (sample provided) to set database credentials:
 
 ```env
+# -------------------------
+# PostgresDB Settings
+# -------------------------
 POSTGRES_USER=postgres
 POSTGRES_PASSWORD=postgres
 POSTGRES_DB=postgres
 
+# -------------------------
+# Postgres Admin Settings
+# -------------------------
 PGADMIN_DEFAULT_EMAIL=postgres@postgres.com
 PGADMIN_DEFAULT_PASSWORD=postgres
 ```
@@ -108,4 +114,5 @@ Data is persisted via Docker volumes:
 
 ## 📝 License
 
-This boilerplate is provided under the MIT License. Feel free to use and modify it for your projects.
+This boilerplate is provided under the MIT License.
+Feel free to use and modify it for your projects.

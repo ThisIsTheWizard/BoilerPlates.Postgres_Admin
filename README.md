@@ -30,8 +30,8 @@ BoilerPlates.Postgres_Admin/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-org>/BoilerPlates-Postgres_Admin.git
-cd BoilerPlates-Postgres_Admin
+git clone https://github.com/ThisIsTheWizard/BoilerPlates.Postgres_Admin.git
+cd BoilerPlates.Postgres_Admin
 ```
 
 ### 2. Configure environment variables
